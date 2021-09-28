@@ -66,7 +66,7 @@ nw.mouseClicked(()=>{
     p.play()
     Swal.fire({
         title:"What's new?",
-        text:"Added draggability to the player. Added icon to the title bar",
+        text:"Added draggability to the player. Added icon to the title bar. Added QR Code. Added BG music",
         imageUrl:"WhatsNew.png",
         imageWidth:'150',
         imageHeight:'150'
